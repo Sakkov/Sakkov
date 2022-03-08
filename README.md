@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sakkov
+- 🎓 I study Digital Systems and Design as my major in Aalto University
 - 👀 I’m interested in Math and Programming 
-- 🌱 I’m currently learning web development 
+- 🌱 I’m currently Machine Learning
 - 📫 How to reach me 
    - Gmail: sakukovanen@gmail.com 
    - Telegram: https://t.me/Sakukovanen
