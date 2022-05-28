@@ -3,6 +3,6 @@
 - 👀 I’m interested in Math and Programming 
 - 🌱 I’m currently lerning Machine Learning
 - 📫 How to reach me 
-   - Gmail: saku@kovanen.io 
+   - Email: saku@kovanen.io 
    - Telegram: https://t.me/Sakukovanen
 - 💻 Check out my website https://sakukovanen.fi
