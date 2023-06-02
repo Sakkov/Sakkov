@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sakkov
 - 🎓 I study Digital Systems and Design as my major in Aalto University
    - 📊⚛️My minors are Data Science and Quantum Technology
-- 👀 I’m interested in Math, Computer Science and Physics 
-- 🌱 I’m currently learning Prototyping, Signal Processing, Quantum Information and Taking Smart Notes
+- 👀 I’m interested in Math, Computer Science, Physics and Business 
+- 🌱 I’m currently learning Prototyping, Signal Processing, and Taking Smart Notes
 - 📫 How to reach me 
    - Email: saku@kovanen.io 
    - Telegram: https://t.me/Sakukovanen
