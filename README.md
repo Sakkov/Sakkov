@@ -8,7 +8,3 @@
    - Telegram: https://t.me/Sakukovanen
 - 🧑‍💼 Check out my business at https://kovanen.io
 - 💻 Check out my personal website https://sakukovanen.fi
-
-![Sakkov's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakkov&count_private=true&show_icons=true&theme=transparent) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakkov&layout=compact&count_private=true&theme=transparent)
