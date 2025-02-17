@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Sakkov
-- 🎓 I study Digital Systems and Design as my major in Aalto University
-   - 📊⚛️My minors are Data Science and Quantum Technology
-- 👀 I’m interested in Math, Computer Science, Physics and Business 
-- 🌱 I’m currently learning SvelteKit, developing AI Language Models, Web development, and Taking Smart Notes
-- 📫 How to reach me 
-   - Email: saku@kovanen.io 
-   - Telegram: https://t.me/Sakukovanen
-- 🧑‍💼 Check out my business at https://kovanen.io
-- 💻 Check out my personal website https://sakukovanen.fi
+## Hi there, I'm @Sakkov 👋 
+
+- 🎓 I’m a Master's student in Health Technology Engineering at Aalto University, specializing in **Health Robotics and Signal Processing**  
+  - Recently completed my B.Sc. in **Digital Systems and Design** with a minor in **Data Science** (Summer 2024)
+- 👀 I’m interested in mathematics, software development, machine learning, signal processing, physics, and business
+- 🌱 Currently learning **Neurorobotics**, developing **Industry 5.0**, honing **Python** skills, and experimenting with efficient **note-taking** practices
+- 📫 Reach me at:  
+  - **Email**: [saku@kovanen.io](mailto:saku@kovanen.io)  
+  - **Telegram**: [@Sakukovanen](https://t.me/Sakukovanen)
+- 🧑‍💼 Check out my business: [kovanen.io](https://kovanen.io)
+- 💻 Personal website: [sakukovanen.fi](https://sakukovanen.fi)
+
+Thanks for stopping by!
